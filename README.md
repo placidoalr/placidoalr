@@ -18,5 +18,5 @@
  <div> 
   <a href="https://instagram.com/placidoalr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/pkadabra" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="plácido-reinert-a5663a144" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/pl%C3%A1cido-reinert-a5663a144?trk=profile-badge">Plácido Reinert</a></div>
+  <a href="https://br.linkedin.com/in/pl%C3%A1cido-reinert-a5663a144?trk=profile-badge" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
